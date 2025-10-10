@@ -1,0 +1,12 @@
+xgboost
+streamlit
+fastapi
+pandas
+scikit-learn
+joblib
+pyjwt
+pydantic
+python-multipart
+uvicorn
+bcrypt
+contextvars

@@ -1,0 +1,101 @@
+2025-10-10 13:28:33,239 - INFO - App started
+2025-10-10 13:28:56,904 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-10-10 13:29:30,407 - INFO - App started
+2025-10-10 13:29:37,125 - INFO - App started
+2025-10-10 13:29:56,387 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-10-10 13:32:04,300 - INFO - App started
+2025-10-10 14:01:02,972 - INFO - User dvirA_dsnll0 registered
+2025-10-10 14:01:05,017 - INFO - User dvirA_dsnll0 logged in
+2025-10-10 14:01:07,087 - INFO - User dvirB_tli8i2 registered
+2025-10-10 14:01:09,107 - INFO - User dvirB_tli8i2 logged in
+2025-10-10 14:01:11,154 - INFO - User dvirA_dsnll0 added 20 tokens
+2025-10-10 14:01:15,274 - INFO - User dvirA_dsnll0 trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:01:17,332 - INFO - User dvirA_dsnll0 trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:01:21,421 - INFO - User dvirA_dsnll0 predict via linear
+2025-10-10 14:01:25,515 - INFO - User dvirB_tli8i2 added 10 tokens
+2025-10-10 14:01:27,640 - INFO - User dvirB_tli8i2 trained random_forest (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:01:33,766 - INFO - User dvirA_dsnll0 deleted
+2025-10-10 14:01:35,793 - INFO - User dvirB_tli8i2 deleted
+2025-10-10 14:13:59,392 - INFO - App started
+2025-10-10 14:16:51,062 - INFO - App started
+2025-10-10 14:16:54,733 - INFO - User dvirA_3b5k1y registered
+2025-10-10 14:16:56,782 - INFO - User dvirA_3b5k1y logged in
+2025-10-10 14:16:58,827 - INFO - User dvirB_hiog3b registered
+2025-10-10 14:17:00,876 - INFO - User dvirB_hiog3b logged in
+2025-10-10 14:17:02,937 - INFO - User dvirA_3b5k1y added 20 tokens
+2025-10-10 14:17:07,077 - INFO - User dvirA_3b5k1y trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:17:09,170 - INFO - User dvirA_3b5k1y trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:17:13,275 - INFO - User dvirA_3b5k1y predict via linear
+2025-10-10 14:17:17,368 - INFO - User dvirB_hiog3b added 10 tokens
+2025-10-10 14:17:19,491 - INFO - User dvirB_hiog3b trained random_forest (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:17:25,618 - INFO - User dvirA_3b5k1y deleted
+2025-10-10 14:17:27,673 - INFO - User dvirB_hiog3b deleted
+2025-10-10 14:17:43,552 - INFO - App started
+2025-10-10 14:21:36,069 - INFO - App started
+2025-10-10 14:22:59,978 - INFO - App started
+2025-10-10 14:24:20,542 - INFO - App started
+2025-10-10 14:24:28,901 - INFO - App started
+2025-10-10 14:25:05,421 - INFO - User dvirA_0ieebl registered
+2025-10-10 14:25:07,477 - INFO - User dvirA_0ieebl logged in
+2025-10-10 14:25:09,537 - INFO - User dvirB_tevef0 registered
+2025-10-10 14:25:11,556 - INFO - User dvirB_tevef0 logged in
+2025-10-10 14:25:13,612 - INFO - User dvirA_0ieebl added 20 tokens
+2025-10-10 14:25:17,718 - INFO - User dvirA_0ieebl trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:25:19,801 - INFO - User dvirA_0ieebl trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:25:23,919 - INFO - User dvirA_0ieebl predict via linear
+2025-10-10 14:25:28,042 - INFO - User dvirB_tevef0 added 10 tokens
+2025-10-10 14:25:30,177 - INFO - User dvirB_tevef0 trained random_forest (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 14:25:36,325 - INFO - User dvirA_0ieebl deleted
+2025-10-10 14:25:38,362 - INFO - User dvirB_tevef0 deleted
+2025-10-10 14:32:25,188 - INFO - User dvir registered
+2025-10-10 14:32:28,346 - INFO - User bob registered
+2025-10-10 14:32:41,193 - INFO - User dvir logged in
+2025-10-10 14:32:52,821 - INFO - User bob logged in
+2025-10-10 14:35:25,029 - INFO - App started
+2025-10-10 14:40:25,130 - INFO - App started
+2025-10-10 14:40:50,965 - INFO - App started
+2025-10-10 14:40:59,148 - INFO - App started
+2025-10-10 14:41:37,126 - INFO - User bob logged in
+2025-10-10 14:41:57,065 - INFO - User bob deleted
+2025-10-10 14:53:56,968 - INFO - App started
+2025-10-10 14:54:08,889 - INFO - App started
+2025-10-10 14:55:50,001 - INFO - User bob registered
+2025-10-10 14:56:00,314 - INFO - User bob logged in
+2025-10-10 15:02:01,722 - INFO - App started
+2025-10-10 15:02:05,458 - INFO - App started
+2025-10-10 15:02:18,288 - INFO - User bob logged in
+2025-10-10 15:04:14,819 - INFO - App started
+2025-10-10 15:04:20,075 - INFO - App started
+2025-10-10 15:24:20,491 - INFO - App started
+2025-10-10 15:24:24,123 - INFO - App started
+2025-10-10 15:24:34,518 - INFO - App started
+2025-10-10 15:26:40,603 - INFO - User bob logged in
+2025-10-10 15:26:58,635 - INFO - User bob deleted
+2025-10-10 15:27:31,535 - INFO - User dvir logged in
+2025-10-10 15:28:05,199 - INFO - User dvir added 20 tokens
+2025-10-10 15:29:49,233 - INFO - User dvir trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 15:30:39,597 - INFO - User dvir predict via linear
+2025-10-10 15:31:45,753 - INFO - App started
+2025-10-10 15:38:38,350 - INFO - App started
+2025-10-10 15:38:45,726 - INFO - App started
+2025-10-10 15:41:25,645 - INFO - App started
+2025-10-10 15:41:55,504 - INFO - App started
+2025-10-10 15:43:16,033 - INFO - App started
+2025-10-10 15:43:26,942 - INFO - App started
+2025-10-10 15:43:45,158 - INFO - App started
+2025-10-10 15:44:31,831 - INFO - App started
+2025-10-10 16:19:12,971 - INFO - App started
+2025-10-10 16:29:07,145 - INFO - User bob registered
+2025-10-10 16:29:56,771 - INFO - User bob logged in
+2025-10-10 16:33:23,787 - INFO - User bob added 20 tokens
+2025-10-10 16:34:45,007 - INFO - User bob trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
+2025-10-10 16:37:12,675 - INFO - User bob predict via linear
+2025-10-10 16:39:51,612 - INFO - User bob deleted
