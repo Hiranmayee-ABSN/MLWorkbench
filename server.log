@@ -99,3 +99,28 @@ pip install python-multipart
 2025-10-10 16:34:45,007 - INFO - User bob trained linear (regression) feats=['age', 'salary', 'rooms'] label=price
 2025-10-10 16:37:12,675 - INFO - User bob predict via linear
 2025-10-10 16:39:51,612 - INFO - User bob deleted
+2026-09-01 22:43:40,122 - INFO - App started
+2026-09-01 22:47:07,725 - INFO - User testuser registered
+2026-09-01 22:49:00,438 - INFO - User testuser logged in
+2026-09-01 22:49:03,176 - INFO - User testuser logged in
+2026-09-01 22:49:05,977 - INFO - User testuser logged in
+2026-09-01 23:11:46,097 - INFO - Application started
+2026-09-01 23:13:58,135 - INFO - User testuser logged in
+2026-09-01 23:14:02,484 - INFO - User testuser logged in
+2026-09-01 23:27:09,249 - INFO - Application started
+2026-09-01 23:27:12,856 - INFO - Application started
+2026-09-01 23:28:43,944 - INFO - Application started
+2026-09-01 23:30:18,044 - INFO - User testuser logged in
+2026-09-01 23:33:21,099 - INFO - User testuser added 20 tokens
+2026-09-01 23:33:36,146 - INFO - User testuser trained linear (regression) feats=['salary', 'rooms', 'price'] label=age
+2026-09-01 23:33:44,762 - INFO - User testuser predict via linear
+2026-09-01 23:34:03,041 - INFO - User testuser trained random_forest (regression) feats=['salary', 'rooms', 'price'] label=age
+2026-09-01 23:34:17,326 - INFO - User testuser predict via random_forest
+2026-09-01 23:42:07,513 - INFO - User testuser trained random_forest (regression) feats=['age', 'salary', 'rooms'] label=price
+2026-09-01 23:42:14,507 - INFO - User testuser predict via random_forest
+2026-09-01 23:44:17,240 - INFO - User testuser trained random_forest (regression) feats=['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'] label=age
+2026-09-01 23:44:29,051 - INFO - User testuser added 20 tokens
+2026-09-01 23:44:44,863 - INFO - User testuser trained linear (regression) feats=['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'] label=age
+2026-09-01 23:44:49,046 - INFO - User testuser predict via linear
+2026-09-01 23:48:04,868 - INFO - User testuser trained linear (regression) feats=['sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target'] label=age
+2026-09-01 23:48:08,312 - INFO - User testuser predict via linear
