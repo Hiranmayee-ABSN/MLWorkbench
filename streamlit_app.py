@@ -285,7 +285,7 @@ def get_models():
 # HEADER
 # ============================================================
 
-st.title("🤖 ML Model Playground")
+st.title("MLWorkbench — Interactive Machine Learning Training & Prediction Platform")
 
 st.write(
     "Upload a dataset, select an ML model, "
