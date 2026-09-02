@@ -15,7 +15,7 @@ API_URL = "http://127.0.0.1:8000"
 # ============================================================
 
 st.set_page_config(
-    page_title="ML Model Playground",
+    page_title="MLWorkbench — Interactive Machine Learning Training & Prediction Platform",
     page_icon="🤖",
     layout="wide",
 )
